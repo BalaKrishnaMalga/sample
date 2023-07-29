@@ -15,12 +15,7 @@ public class Example {
 	}
 	
 	
-	 public void div() {
-		
-		k=i/j;
-		System.out.println("Division of two numers is " +k);
-		
-	}
+	
 	 public void sub() {
 		 k=i-j;
 		 System.out.println("Subration of two numbers is  " +k);
